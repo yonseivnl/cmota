@@ -2,7 +2,7 @@
 
 This is the official implementation of CMOTA ([ICCV 2023](https://iccv2023.thecvf.com)). <br>
 [Story Visualization by Online Text Augmentation with Context Memory](https://dcahn12.github.io/projects/CMOTA/) <br>
-[Daechul Ahn](https://dcahn12.github.io), [Daneul Kim](https://carpedkm.github.io), [Gwangmo Song](), [SeungHwan Kim](https://kr.linkedin.com/in/seung-hwan-kim-72464680/en), [Dongyeop Kang](https://dykang.github.io), [Jonghyun Choi](https://ppolon.github.io) <br>
+[Daechul Ahn](https://dcahn12.github.io), [Daneul Kim](https://carpedkm.github.io), [Gwangmo Song](), [SeungHwan Kim](https://kr.linkedin.com/in/seung-hwan-kim-72464680/en), [Honglak Lee](https://web.eecs.umich.edu/~honglak/), [Dongyeop Kang](https://dykang.github.io), [Jonghyun Choi](https://ppolon.github.io) <br>
 
 Story visualization (SV) is a challenging task that involves generating images from text descriptions while maintaining long-term context across multiple sentences. Previous approaches mainly focused on generating semantically relevant images for individual sentences, but generating contextually convincing images within a given paragraph, such as accurately depicting characters and scene backgrounds, remained a challenge. To address this, we introduce a novel memory architecture for Bi-directional Transformers along with online text augmentation. This augmentation generates multiple pseudo-descriptions to provide additional supervision during training, enhancing the model's ability to generalize to language variations during inference. We refer to our model as CMOTA, which stands for <b>C</b>ontext <b>M</b>emory and <b>O</b>nline <b>T</b>ext <b>A</b>ugmentation.
 
