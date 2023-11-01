@@ -26,7 +26,7 @@ $ pip install -r requirements.txt
 
 ## Data Preparation
 ### Download data, pretrained model checkpoint
-You can download the training dataset and pretraeind checkpoint, ie, [proro dataset]() and [flintstone]() and [pretrained vae checkpoint]() and [pretraeind memory transformer](), respectively. <br>
+You can download the training dataset and pretraeind checkpoint, ie, [proro dataset]() and [flintstone]() and [pretrained vae checkpoint](https://drive.google.com/file/d/1fugkyU8-tKKHQPr7NALliCjrdT9vJj5y/view?usp=share_link) and [pretraeind memory transformer](https://drive.google.com/file/d/1KNbtw3Qe_rWzyWaB1vvA7jh2-hOKIHZN/view?usp=share_link), respectively. <br>
 
 Then, place the files as follows:
 ```bash
